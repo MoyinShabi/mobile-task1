@@ -1,10 +1,10 @@
-### Simple Personal Details Application (HNGx Task 1)
+# Simple Personal Details Application (HNGx Task 1)
 
 ## Features
 - Simple UI
 - In-app web view to view personal GitHub profile page
 
-## [Appetize Demo](https://appetize.io/app/ljylznjkdr23xsspwotvknowbm?device=pixel7&osVersion=13.0&scale=75) 
+## Demo: [Appetize Demo](https://appetize.io/app/ljylznjkdr23xsspwotvknowbm?device=pixel7&osVersion=13.0&scale=75) 
 
 
 ## Packages Used
