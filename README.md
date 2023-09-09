@@ -1,22 +1,18 @@
-## Simple Personal Details Application (HNGx Task 1)
+### Simple Personal Details Application (HNGx Task 1)
 
-### Features
+## Features
 - Simple UI
 - In-app web view to view personal GitHub profile page
 
-### [Appetize Demo](https://appetize.io/app/ljylznjkdr23xsspwotvknowbm?device=pixel7&osVersion=13.0&scale=75) 
-Device: Pixel 7
+## [Appetize Demo](https://appetize.io/app/ljylznjkdr23xsspwotvknowbm?device=pixel7&osVersion=13.0&scale=75) 
 
-Android version: 13.0
 
-Scale: 75%
-
-### Packages Used
+## Packages Used
 | Name                                                                   | Usage                                         |
 | ---------------------------------------------------------------------- | --------------------------------------------- |
 | [Font Awesome Flutter](https://pub.dev/packages/font_awesome_flutter)              | Custom icons|
 | [Url Launcher](https://pub.dev/packages/url_launcher)                        | Launch urls in in-app web view |
-### Setup Instructions
+## Setup Instructions
 
 To run this project on your local machine, you'll need to have Flutter installed. If you haven't already, you can follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install) for your platform.
 
