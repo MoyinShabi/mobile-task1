@@ -5,7 +5,9 @@
 - In-app web view to view personal GitHub profile page
 
 ## Demo: [Appetize Demo](https://appetize.io/app/ljylznjkdr23xsspwotvknowbm?device=pixel7&osVersion=13.0&scale=75) 
-
+Note: 
+- View on desktop for best performance
+- Due to the Appetize free tier limit, please limit your testing to 5 minutes or less
 
 ## Packages Used
 | Name                                                                   | Usage                                         |
